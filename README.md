@@ -1,8 +1,6 @@
 ![](https://github.com/tactillusion/Tosscraft_GDD/blob/master/gfx/logo.PNG)
 
-[![](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg)]()
-[![](https://img.shields.io/badge/coverage-10%25-orange.svg)]()
-[![](https://img.shields.io/badge/using-Leap%20Motion-brightgreen.svg)]()
+
 #####Made with:
 [![](http://cdn2.afterdawn.fi/v3/news/small/unity-3d-logo-white.png)]()
 &nbsp;&nbsp;&nbsp;
